@@ -15,4 +15,4 @@ tu uuuhhh hahaha
 
 ¡Papaya!
 
-//*No lo aceptes es solo para ver como funciona el pull request, le he dado a folk y estoy modificando esto desde el vscode online que sale en github
+//*No lo aceptes es solo para ver como funciona el pull request, le he dado a folk y estoy modificando esto desde el vscode online que sale en github..(esto estaba hecho de antes añado esto para que me deje otro folk)
